@@ -6,6 +6,7 @@ public class Happy {
 		// TODO Auto-generated method stub
 		System.out.println("Test...");
 		System.out.println("right...");
+		System.out.println("hot_fix");
 	}
 
 }
